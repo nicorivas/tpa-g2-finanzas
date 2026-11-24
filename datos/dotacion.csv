@@ -1,0 +1,29 @@
+trabajador_id,centro_costo,estado,fecha_estado
+T-001,Servicio técnico,activo,
+T-002,Ventas,activo,
+T-003,Marketing,activo,
+T-004,Administración,activo,
+T-005,Ventas,activo,
+T-006,Marketing,activo,
+T-007,Administración,licencia,2026-09-20
+T-008,Operaciones,activo,
+T-009,Servicio técnico,activo,
+T-010,Administración,activo,
+T-011,Operaciones,activo,
+T-012,Servicio técnico,activo,
+T-013,Ventas,activo,
+T-014,Marketing,activo,
+T-015,Servicio técnico,finiquito,2026-10-30
+T-016,Ventas,activo,
+T-017,Marketing,activo,
+T-018,Administración,activo,
+T-019,Operaciones,licencia,2026-10-12
+T-020,Marketing,activo,
+T-021,Administración,activo,
+T-022,Operaciones,activo,
+T-023,Servicio técnico,activo,
+T-024,Ventas,prueba,2026-09-14
+T-025,Operaciones,prueba,2026-10-05
+T-026,Servicio técnico,prueba,2026-08-24
+T-027,Ventas,activo,
+T-028,Marketing,activo,

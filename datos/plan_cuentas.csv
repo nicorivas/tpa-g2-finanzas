@@ -1,0 +1,21 @@
+cuenta_erp,nombre,categoria
+5101,Sueldo base,haber imponible
+5102,Gratificación legal,haber imponible
+5103,Bono de producción,haber imponible
+5104,Comisión de ventas,haber imponible
+5105,Horas extra 50%,haber imponible
+5106,Bono de desempeño,haber imponible
+5201,Colación,haber no imponible
+5202,Movilización,haber no imponible
+5203,Asignación familiar,haber no imponible
+2101,Descuento AFP,descuento legal
+2102,Descuento salud,descuento legal
+2103,Seguro de cesantía,descuento legal
+2104,Impuesto único,descuento legal
+1301,Anticipo de sueldo,descuento voluntario
+1302,Préstamo empresa,descuento voluntario
+2201,Cuota sindical,descuento voluntario
+5301,Indemnización años de servicio,finiquito
+5302,Vacaciones proporcionales,finiquito
+5303,Indemnización sustitutiva del aviso previo,finiquito
+5401,Subsidio por licencia a recuperar,subsidio por licencia

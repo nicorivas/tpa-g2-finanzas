@@ -1,0 +1,198 @@
+linea_id,trabajador_id,centro_costo,concepto_liquidacion,monto
+L0001,T-001,Servicio técnico,SUELDO BASE,1248000
+L0002,T-001,Servicio técnico,DESCUENTO AFP,141000
+L0003,T-001,Servicio técnico,Desucento salud,87000
+L0004,T-001,Servicio técnico,  Asignación familiar ,25000
+L0005,T-002,Ventas,Seuldo base,1000000
+L0006,T-002,Ventas,Seuldo base,1000000
+L0007,T-002,Ventas,  Descuento AFP ,113000
+L0008,T-002,Ventas,  Descuento salud ,70000
+L0009,T-002,Ventas,Asignación familiar,25000
+L0010,T-002,Ventas,comisión de ventas,865000
+L0011,T-002,Ventas,HORAS EXTRA 50%,123000
+L0012,T-003,Marketing,Sueldo base,18500000
+L0013,T-003,Marketing,Colaci.,82000
+L0014,T-003,Marketing,Descuento AFP,94000
+L0015,T-003,Marketing,Desucento salud,58000
+L0016,T-004,Administración,sueldo base,878000
+L0017,T-004,Administración,descuento afp,99000
+L0018,T-004,Administración,Descuneto salud,61000
+L0019,T-005,Ventas,Sueldo base,790000
+L0020,T-005,Ventas,GRATIFICACIÓN LEGAL,198000
+L0021,T-005,Ventas,  Colación ,74000
+L0022,T-005,Ventas,  Movilización ,
+L0023,T-005,Ventas,descuento afp,89000
+L0024,T-005,Ventas,Descuento salud,55000
+L0025,T-005,Ventas,Asignación fmailiar,15000
+L0026,T-005,Ventas,Comisión de ventas,164000
+L0027,T-006,Marketing,sueldo base,1516000
+L0028,T-006,,Colación,57000
+L0029,T-006,Marketing,Movilización,35000
+L0030,T-006,Marketing,descuento afp,171000
+L0031,T-006,Marketing,DESCUENTO SALUD,106000
+L0032,T-006,Marketing,IMPUESTO ÚNICO,132000
+L0033,T-007,Administración,sueldo base,936000
+L0034,T-007,Administración,Gratiifcación legal,234000
+L0035,T-007,Administración,Colación,70000
+L0036,T-007,Administración,descuento afp,106000
+L0037,T-007,Administración,  Descuento salud ,66000
+L0038,T-007,Administración,Asigna.,15000
+L0039,T-008,Operaciones,  Sueldo base ,2351000
+L0040,T-008,Operaciones,movilización,56000
+L0041,T-008,Operaciones,DESCUENTO AFP,266000
+L0042,T-008,Operaciones,  Descuento salud ,165000
+L0043,T-008,Operaciones,Impuesto núico,136000
+L0044,T-008,Operaciones,Bnoo de producción,189000
+L0045,T-008,Operaciones,Anticipo de sueldo,284000
+L0046,T-009,Servicio técnico,Sueldo base,2388000
+L0047,T-009,Servicio técnico,Colaci.,58000
+L0048,T-009,Servicio técnico,Descuento AFP,270000
+L0049,T-009,Servicio técnico,Descuento salud,167000
+L0050,T-009,Servicio técnico,Impuesto único,152000
+L0051,T-009,Servicio técnico,Asignación familiar,15000
+L0052,T-009,Servicio técnico,  Cuota sindical ,12000
+L0053,T-010,Administración,Sueldo.,1194000
+L0054,T-010,Administración,Gratificación legal,298000
+L0055,T-010,Administración,colación,71000
+L0056,T-010,Administración,  Descuento AFP ,135000
+L0057,T-010,Administración,Descuento salud,84000
+L0058,T-010,Administración,Anticipo de sueldo,248000
+L0059,T-011,Operaciones,Sueldo base,1029000
+L0060,T-011,Operaciones,Colaci.,58000
+L0061,T-011,Operaciones,Colaci.,58000
+L0062,T-011,Operaciones,Descuento AFP,116000
+L0063,T-011,Operaciones,descuento salud,72000
+L0064,T-011,Operaciones,Bono de producción,256000
+L0065,T-011,Operaciones,  Cuota sindical ,12000
+L0066,T-011,Operaciones,Préstamo empresa,188000
+L0067,T-012,Servicio técnico,Sueldo base,1249000
+L0068,T-012,Servicio técnico,colación,61000
+L0069,T-012,Servicio técnico,Descuenot AFP,141000
+L0070,T-012,Servicio técnico,Descuento salud,87000
+L0071,T-012,Servicio técnico,Seguro de cesantía,7000
+L0072,T-013,Ventas,Sueldo base,2299000
+L0073,T-013,Ventas,Descuento AFP,260000
+L0074,T-013,Ventas,Descuento salud,161000
+L0075,T-013,Ventas,impuesto único,112000
+L0076,T-013,Ventas,Comisi.,
+L0077,T-013,Ventas,Horas.,162000
+L0078,T-014,Marketing,Suedlo base,1033000
+L0079,T-014,Marketing,  Gratificación legal ,258000
+L0080,T-014,Marketing,DESCUENTO AFP,117000
+L0081,T-014,Marketing,Descuento salud,72000
+L0082,T-014,Marketing,  Asignación familiar ,25000
+L0083,T-015,Servicio técnico,  Sueldo base ,696000
+L0084,T-015,Servicio técnico,Colación,75000
+L0085,T-015,Servicio técnico,Movili.,46000
+L0086,T-015,Servicio técnico,Descuento AFP,79000
+L0087,T-015,Servicio técnico,descuento salud,49000
+L0088,T-015,Servicio técnico,Cuota.,12000
+L0089,T-016,Ventas,Sueldo base,2286000
+L0090,T-016,Ventas,gratificación legal,572000
+L0091,T-016,Ventas,COLACIÓN,70000
+L0092,T-016,Ventas,  Movilización ,37000
+L0093,T-016,Ventas,DESCUENTO AFP,258000
+L0094,T-016,Ventas,Descuento AFP,258000
+L0095,T-016,Ventas,Descuento salud,160000
+L0096,T-016,Ventas,  Seguro de cesantía ,14000
+L0097,T-016,Ventas,Impuesto único,110000
+L0098,T-016,Ventas,Asigna.,38000
+L0099,T-016,Ventas,Comisi.,816000
+L0100,T-016,Ventas,horas extra 50%,203000
+L0101,T-017,Marketing,Sueldo base,924000
+L0102,T-017,Marketing,  Gratificación legal ,231000
+L0103,T-017,Marketing,Colaci.,56000
+L0104,T-017,Marketing,DESCUENTO AFP,104000
+L0105,T-017,Marketing,descuento salud,65000
+L0106,T-018,Administración,Sueldo.,1664000
+L0107,T-018,Administración,Colaci.,68000
+L0108,T-018,Administración,descuento afp,188000
+L0109,T-018,,Descuento salud,116000
+L0110,T-018,Administración,seguro de cesantía,10000
+L0111,T-018,Administración,Impuesto único,110000
+L0112,T-018,Administración,Asignacinó familiar,15000
+L0113,T-019,Operaciones,Sueldo base,1223000
+L0114,T-019,Operaciones,Gratificación elgal,306000
+L0115,T-019,Operaciones,colación,57000
+L0116,T-019,Operaciones,Movilización,35000
+L0117,T-019,Operaciones,Desceunto AFP,138000
+L0118,T-019,Operaciones,Descuento salud,86000
+L0119,T-019,Operaciones,Bono de producción,366000
+L0120,T-020,Marketing,SUELDO BASE,2140000
+L0121,T-020,Marketing,Coalción,75000
+L0122,T-020,Marketing,descuento afp,242000
+L0123,T-020,Marketing,Descuento salud,150000
+L0124,T-020,Marketing,Impues.,69000
+L0125,T-020,Marketing,Horas extra 50%,130000
+L0126,T-021,Administración,SUELDO BASE,2134000
+L0127,T-021,Administración,Descuento AFP,241000
+L0128,T-021,Administración,  Descuento salud ,149000
+L0129,T-021,Administración,impuesto único,103000
+L0130,T-021,Administración,horas extra 50%,41000
+L0131,T-022,Operaciones,Sueldo base,1635000
+L0132,T-022,Operaciones,Descuento AFP,185000
+L0133,T-022,Operaciones,  Descuento salud ,114000
+L0134,T-022,Operaciones,Impuesto único,23000
+L0135,T-022,Operaciones,Asginación familiar,38000
+L0136,T-022,Operaciones,Bono de producción,276000
+L0137,T-022,Operaciones,Cuota sindical,12000
+L0138,T-023,Servicio técnico,Sueldo base,1771000
+L0139,T-023,Servicio técnico,  Colación ,75000
+L0140,T-023,Servicio técnico,Descuento AFP,200000
+L0141,T-023,Servicio técnico,Descuento salud,124000
+L0142,T-023,Servicio técnico,Impues.,105000
+L0143,T-023,Servicio técnico,Cuota sindical,12000
+L0144,T-024,Ventas,Sueldo.,2182000
+L0145,T-024,Ventas,Gratificación legal,546000
+L0146,T-024,Ventas,Colación,65000
+L0147,T-024,Ventas,Descuenot AFP,247000
+L0148,T-024,Ventas,  Descuento salud ,153000
+L0149,T-024,Ventas,Impuesto único,40000
+L0150,T-024,Ventas,Comisi.,554000
+L0151,T-024,Ventas,  Horas extra 50% ,60000
+L0152,T-025,Operaciones,SUELDO BASE,757000
+L0153,T-025,Operaciones,Colación,75000
+L0154,T-025,Operaciones,Descuento AFP,86000
+L0155,T-025,Operaciones,Descuento salud,53000
+L0156,T-025,Operaciones,Seguro.,5000
+L0157,T-025,Operaciones,Bono de producción,396000
+L0158,T-026,Servicio técnico,SUELDO BASE,1816000
+L0159,T-026,Servicio técnico,gratificación legal,454000
+L0160,T-026,Servicio técnico,Colación,81000
+L0161,T-026,Servicio técnico,Descuento AFP,205000
+L0162,T-026,Servicio técnico,DESCUENTO SALUD,127000
+L0163,T-026,Servicio técnico,  Impuesto único ,87000
+L0164,T-026,Servicio técnico,Asignación familiar,25000
+L0165,T-026,Servicio técnico,cuota sindical,12000
+L0166,T-026,Servicio técnico,  Anticipo de sueldo ,255000
+L0167,T-027,Ventas,Seuldo base,1189000
+L0168,T-027,Ventas,Movilización,46000
+L0169,T-027,Ventas,Decsuento AFP,134000
+L0170,T-027,Ventas,  Descuento salud ,83000
+L0171,T-027,Ventas,Seguro.,7000
+L0172,T-027,Ventas,comisión de ventas,831000
+L0173,T-028,Marketing,Sueldo base,2386000
+L0174,T-028,Marketing,  Movilización ,37000
+L0175,T-028,Marketing,Descuento AFP,270000
+L0176,T-028,Marketing,  Descuento salud ,167000
+L0177,T-028,Marketing,impuesto único,112000
+L0178,T-015,Servicio técnico,Indemnización años de servicio,4030000
+L0179,T-015,Servicio técnico,vacaciones proporcionales,702000
+L0180,T-019,Operaciones,Indemnizcaión años de servicio,1798000
+L0181,T-019,Operaciones,Vacaciones proporcionales,558000
+L0182,T-015,Servicio técnico,Indemniz.,1120000
+L0183,T-024,Ventas,Anticipo de sueldo,300000
+L0184,T-024,Ventas,Préstamo empresa,150000
+L0185,T-025,Operaciones,Antici.,200000
+L0186,T-027,Ventas,Présatmo empresa,180000
+L0187,T-004,Administración,Descuent.,98000
+L0188,T-012,Servicio técnico,Descuent.,71000
+L0189,T-020,Marketing,Descuent.,133000
+L0190,T-010,Administración,Bono,250000
+L0191,T-022,Operaciones,Bono d.,180000
+L0192,T-009,Servicio técnico,Aporte seguro complementario,18500
+L0193,T-013,Ventas,APORTE SEGURO COMPLEMENTARIO,18500
+L0194,T-012,Servicio técnico,Reintegro de sueldo,-180000
+L0195,T-099,,Sueldo base,780000
+L0196,,Marketing,Bono de desempeño,150000
+L0197,T-021,Administración,  Colación ,1200000
