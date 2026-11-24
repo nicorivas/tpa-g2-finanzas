@@ -5,7 +5,7 @@ Este repositorio es el proyecto de cierre de remuneraciones del área de finanza
 ## Qué hay en cada archivo
 - `reglas.md` contiene los criterios para clasificar cada línea de liquidación.
 - `proyecto.md` describe el problema, para quién es y cómo se mide.
-- `traspaso.md` responde las seis preguntas del equipo con IA (responsabilidad, acceso, coordinación, calidad, visibilidad y riesgo).
+- `traspaso.md` dice qué cambió, qué quedó pendiente, qué decidimos y por qué, qué no hay que tocar y cuál es el siguiente paso.
 - `REVIEW.md` dice cómo se revisa un cambio.
 - `verificar.py` revisa que una propuesta no rompa algunas reglas duras.
 - `datos/` contiene las planillas en formato csv.
@@ -46,4 +46,4 @@ Este repositorio es el proyecto de cierre de remuneraciones del área de finanza
 ## Notas generales
 - Mantener este archivo actualizado.
 - Consultar los demás archivos para más detalle.
-- Al terminar, dejar el traspaso con sus seis preguntas.
+- Al terminar, dejar el traspaso con sus cinco partes.

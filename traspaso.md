@@ -1,18 +1,10 @@
 # Traspaso
 
-## Responsabilidad
-
-## Acceso
-
-## Coordinación
-
-## Calidad
-
-## Visibilidad
-
-## Riesgo
+## Qué cambió
 
 ## Qué quedó pendiente
+
+## Qué decidimos y por qué
 
 ## Qué no hay que tocar
 
